@@ -32,8 +32,8 @@
 #include <ESP8266WiFi.h>
 
 // RemoteXY connection settings 
-#define REMOTEXY_WIFI_SSID "Your SSIS"
-#define REMOTEXY_WIFI_PASSWORD "Your wifi password"
+#define REMOTEXY_WIFI_SSID "YOUR SSIS"
+#define REMOTEXY_WIFI_PASSWORD "YOUR WIFI PASSWORD"
 #define REMOTEXY_SERVER_PORT 6377
 
 

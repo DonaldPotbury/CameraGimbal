@@ -29,8 +29,8 @@
 #include <Servo.h>
 
 // RemoteXY connection settings 
-#define REMOTEXY_WIFI_SSID "TMOBILE-0F51"
-#define REMOTEXY_WIFI_PASSWORD "dispose.triage.scorch.corndog!"
+#define REMOTEXY_WIFI_SSID "YOUR SSIS"
+#define REMOTEXY_WIFI_PASSWORD "YOUR WIFI PASSWORD"
 #define REMOTEXY_SERVER_PORT 6377
 #define REMOTEXY_ACCESS_PASSWORD "1"
 
