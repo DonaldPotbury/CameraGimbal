@@ -40,3 +40,20 @@ Figure 4. Zoom/Focus board
 Figure 5. Zoom/Focus circuit
 
 
+## Power:
+A single 5 volt 2 amp power supply was used to power the entire unit. It uses a 2.1mm barrel jack.  This plugs into the base of the pan/tilt unit.  Power to the zoom/focus unit is supplied by a short cable as shown in figure 6
+
+
+![Camera Gimbal left side](assets/Camera%20Gimbal%20left%20side.jpeg)
+Figure 6. External cable used to power the zoom/focus unit.
+
+
+![Power Supply](assets/Power%20Supply.jpg)
+Figure 7.  DC Power Supply
+
+
+## Programming:
+### Arduino IDE
+#### Loading the RemoteXY Library
+### RemoteXY
+#### Downloading the App
